@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 
 ###### Sobre o Pedro
-5 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Mobile, Web, automações
+Cursando Análise e Desenvolvimento de Sistemas na FIAP (2022 - 2023).
 
 ### Detalhes
 
