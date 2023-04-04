@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-###### Sobre o Pedro
+###### Sobre a Ana Ira
 Cursando Análise e Desenvolvimento de Sistemas na FIAP (2022 - 2023).
 
 ### Detalhes
